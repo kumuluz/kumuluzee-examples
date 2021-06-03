@@ -40,7 +40,7 @@
         <kumuluzee-config-mp.version>1.1.0-SNAPSHOT</kumuluzee-config-mp.version>
         <kumuluzee-streaming.version>1.0.0-SNAPSHOT</kumuluzee-streaming.version>
 
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <postgresql.version>42.1.4</postgresql.version>
 
     </properties>
